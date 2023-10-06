@@ -44,6 +44,7 @@ Route::middleware('auth')->group(function(){
     // Route::get('/category/edit/{id}',[CategoryController::class, 'edit'])->name('category.edit');
     // Route::put('/category/{id}',[CategoryController::class, 'update'])->name('category.update');
     // Route::delete('/cagegory/{id}',[CategoryController::class, 'destroy'])->name('category.destroy');
+    //commit uchun ozgarish
 });
 
 
